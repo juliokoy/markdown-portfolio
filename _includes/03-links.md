@@ -1,1 +1,1 @@
-(https://www.rickowens.eu/en/US)
+(https://coinmarketcap.com/)
