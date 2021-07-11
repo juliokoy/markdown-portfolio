@@ -1,1 +1,1 @@
-[text] (https://www.rickowens.eu/en/US)
+(https://www.rickowens.eu/en/US)
