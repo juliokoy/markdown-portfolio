@@ -1,1 +1,1 @@
-(https://coinmarketcap.com/)
+[text] (https://coinmarketcap.com/)
