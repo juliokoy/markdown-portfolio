@@ -9,6 +9,5 @@ layout: default
 {% include 02-image.md %}
 
 <br>
-
-{% include 03-links.md %}
+[text] (https://coinmarketcap.com/)
 
