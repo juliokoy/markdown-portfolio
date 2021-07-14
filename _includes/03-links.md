@@ -1,1 +1,1 @@
-(https://coinmarketcap.com/)
+https://coinmarketcap.com/
